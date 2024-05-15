@@ -6738,6 +6738,23 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         	<Author>wdghzym</Author>
     	</Authors>
     </Manifest>
+    <Manifest>
+        <Name>BenchDeploy</Name>
+        <Description>Deploy Multi Bench use controller/keyboard</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="CEF0744C491BE1B9B25F5B44A87B692DF5F0EA398D7A4E0D892A29686F792904">
+            <![CDATA[https://github.com/wdghzym/HollowKnight.BenchDeploy/releases/download/v1.0/BenchDeploy.v1.0.zip]]>
+        </Link>
+	<Dependencies>
+            <Dependency>Benchwarp</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/wdghzym/HollowKnight.BenchDeploy]]>
+        </Repository>
+    	<Authors>
+        	<Author>wdghzym</Author>
+    	</Authors>
+    </Manifest>
 	    <Manifest>
         <Name>MetalPipeHM</Name>
         <Description>A hollow knight mod that plays the metal pipe falling sound whenever the knight swings their nail.</Description>
